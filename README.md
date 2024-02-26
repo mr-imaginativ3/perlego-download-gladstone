@@ -49,5 +49,5 @@ Screen recording of my process and set up coming soon.
 
 Mr Imaginativ3
 
-Any questions will be answered by updating this guide or the video. If I didn't answer it is because your technical level is too low and I don't have time to answer.
+Any questions will be answered by updating this guide or the video. If I didn't answer it is because #1 your technical level is too low and I don't have time to answer #2 the question is already answered in the RAEDME or video. Have another careful look.
 
