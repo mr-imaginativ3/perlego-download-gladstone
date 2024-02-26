@@ -28,7 +28,7 @@ For the newbies a video is coming.
 
 Tip #1 ePUB (auto) as it says is all automatic... nothing to do but click on the button and wait.
 
-Tip #2 For PDF (Manual) When you use the autoscroll you must give the page the chance to load the following pages or else the script will stop working (I don't know why).
+Tip #2 For PDF (Manual) When you use the autoscroll you must give the page the chance to load 2 or 3 pages or else the script will stop working (I don't know why).
 When you scroll too fast you will see that only 2 or 3 pages are loaded at a time. Only when you stop scrolling does it coninue loading pages without stoping the script.
 
 Tip #3 When you set up the autoscroll and the Mini Mouse Macro you must make the Macro (looped) a short scroll down (a few pages) then scroll back up till the mouse is over the the AutoScroll button. This will stop the scrolling from moving. Count for three mississipi or so then stop the recording of the macro.
