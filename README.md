@@ -37,7 +37,7 @@ Tip #4 The Autoscroll works by moving your mouse below where you started the aut
 
 Tip #5 Don't let more then two pages scroll before stopping the scrolling.
 
-Tip #6 Set up shortcuts for record and stop. Test to make sure they work. Try stoping the Macro with your mouse when the Macro is running.... LOL
+Tip #6 Set up shortcuts for the Macro record and stop. Test to make sure they work. Try stoping the Macro with your mouse when the Macro is running.... LOL
 
 Tip #7 Record the movement starting at the AutoScroll button moving down then back over the button waitng 3 seconds before stopping the recording.
 
